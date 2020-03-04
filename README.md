@@ -6,7 +6,7 @@ h5service-yy.min.js仅支持webh5，微信小程序。
 
 ## 动态
 
-[2019-03-04] 【hummer-channel-sdk新版本】提供h5service-yy.min.js  1.0.0版本发布（VERSION = 1583306655）
+[2019-03-04] 【h5service-yy js-sdk新版本】提供h5service-yy.min.js  1.0.0版本发布（VERSION = 1583306655）
 
 （1）new NewH5(thirdUdbAppId: string="", miniAppId: string="", bReLoginAlways: boolean=false, udbAppId: string, udbAppkey: string)
 
