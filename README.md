@@ -15,6 +15,7 @@ h5service-yy.min.js仅支持webh5，微信小程序。
 如果不填，默认appname='yymwebh5'；如果填写，请业务填写正确的udbAppId和udbAppkey。
 
 【验收条件】：
+
 	（1）service通道登录成功；
 	（2）后端服务统计到预期的appname；
 
